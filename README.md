@@ -1,2 +1,3 @@
 # repo5 creado desde visual studio code
-modificado
+mod
+repositorio para graficar **git** desde VS Code
